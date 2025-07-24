@@ -90,10 +90,12 @@ Finger-to-chord mappings are defined in `Chord_mapping.txt`.
 Example mappings (see full list in `Chord_mapping.txt`):
 
 ```
-Left Thumb   => D Minor
-Left Index   => E Minor
-Right Middle => A Major
-Right Pinky  => B Minor
+Left Thumb   => A minor
+Left Index   => B dim
+Left Middle  => C major
+Right Thumb  => C
+Right Index  => D
+Right Middle => E
 ```
 
 ---
