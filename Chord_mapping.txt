@@ -1,0 +1,17 @@
+# Aéras Piano - Chord Mapping
+# Format: Hand - Finger -> MIDI Notes
+
+Left Hand:
+Thumb     -> [62, 66, 69]      # D major chord
+Index     -> [64, 67, 71]      # E minor chord
+Middle    -> [66, 69, 73]      # F# minor chord
+Ring      -> [67, 71, 74]      # G major chord
+Pinky     -> [69, 73, 76]      # A major chord
+
+Right Hand:
+Thumb     -> [62, 66, 69]      # D major chord
+Index     -> [64, 67, 71]      # E minor chord
+Middle    -> [66, 69, 73]      # F# minor chord
+Ring      -> [67, 71, 74]      # G major chord
+Pinky     -> [69, 73, 76]      # A major chord
+

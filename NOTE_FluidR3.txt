@@ -1,0 +1,30 @@
+🎵 FluidR3_GM.sf2 SoundFont Instructions
+
+This project uses the FluidR3 General MIDI SoundFont (FluidR3_GM.sf2) to generate piano sounds via FluidSynth.
+
+✅ Download Link (Verified):
+https://member.keymusician.com/Member/FluidR3_GM/index.html
+
+📁 How to Setup:
+1. Download FluidR3_GM Soundfont from the given link, a zip file will be downloaded.
+2. Unzip the zip file — it will automatically create a folder named `FluidR3_GM` containing:
+   - FluidR3_GM.sf2
+   - README.txt
+   - copyright.txt
+
+3. Place the **entire `FluidR3_GM` folder** inside your `Aéras_Piano` project directory (at the same level as air_piano.py).
+
+📌 Example path used in air_piano.py:
+    FluidR3_GM/FluidR3_GM.sf2
+
+🛠️ If you relocate the SoundFont, update this path in your code:
+    sf2_path = "/absolute/or/relative/path/to/FluidR3_GM.sf2"
+
+📍 Tip:
+If FluidSynth fails to load the SoundFont, check for:
+- Correct file path
+- Correct file name (`FluidR3_GM.sf2`)
+- Matching extension
+
+🎶 You're ready to play!
+
