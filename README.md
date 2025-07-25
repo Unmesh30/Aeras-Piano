@@ -79,7 +79,7 @@ python air_piano.py
 
 2. Ensure your webcam is active and unobstructed.
 3. Raise fingers individually (thumb/index/middle/ring/pinky) to play assigned chords.
-4. Press `q` to exit the application.
+4. Press `Ctrl + C` to exit the application.
 
 Finger-to-chord mappings are defined in `Chord_mapping.txt`.
 
