@@ -9,7 +9,7 @@
 * **Touchless Interaction**: Play chords in the air by raising specific fingers—no keyboard required.
 * **Real-time Hand Detection**: Utilizes `cvzone.HandTrackingModule` with OpenCV for accurate finger tracking.
 * **MIDI Sound Engine**: Integrates FluidSynth with the `FluidR3_GM.sf2` SoundFont to deliver rich, realistic instrument sounds.
-* **Dual-Hand Support**: Enables both left and right hands to trigger customized chords.
+* **Dual-Hand Support**: Enables both left and right hands to trigger customized chords and notes.
 * **Threaded Note Release**: Implements multithreading to simulate natural note sustain and release.
 * **Modular Architecture**: Designed for extensibility—add new gestures, instruments, or playback features with ease.
 
